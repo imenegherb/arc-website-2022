@@ -1,0 +1,43 @@
+version: "3"
+networks:
+  celec-arc-network:
+services:
+ mariadb:
+  container_name: arcmariadb
+  restart: always
+  tty: true
+  image: mariadb
+  ports: 
+   - "5306:3306"
+  networks:
+   - celec-arc-network
+  volumes:
+   - ./maria:/var/lib/mysql
+  environment:
+   MYSQL_ROOT_PASSWORD: 
+   MYSQL_DATABASE:
+   MYSQL_USER: 
+   MYSQL_PASSWORD: 
+ php:
+  container_name: php-arc
+  restart: always
+  build: ./php
+  ports:
+   - "9005:9000"
+  volumes:
+   - ./src/:/var/www/html/
+  networks:
+   - celec-arc-network
+ web:
+  container_name: arcwebsite
+  restart: always
+  image: nginx
+  volumes:
+   - ./src/:/var/www/html/
+   - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+  networks:
+   - celec-arc-network
+  ports:
+    - "83:80"
+  depends_on:
+    - php
