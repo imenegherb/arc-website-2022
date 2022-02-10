@@ -34,12 +34,28 @@
           </div>
           <div class="input-field">
             <i class="fas fa-phone"></i>
-            <input value="{{ old('phone_2') }}" name="phone_2" type="text" placeholder="Numéro de téléphone 2"/>
+            <input value="{{ old('phone_2') }}" name="phone_2" type="text" placeholder="Ajoutez un 2éme numéro"/>
           </div>
           <div class="input-field">
-            <i class="fas fa-city"></i>
-            <input value="{{ old('wilaya') }}" name="wilaya" list="hosting-plan" type="text" placeholder="Wilaya" />
-          </div>
+              <i class="fa fa-graduation-cap"></i>
+              <input value="{{ old('Niveau_etude') }}" name="Niveau_etude" type="text" placeholder="Niveau d'étude et spécialité" />
+            </div>
+          <select>
+    <option value="0">Selectionnez la wilaya de participation</option>
+    <option value="Alger">Alger</option>
+    <option value="Skikda">Skikda</option>
+    <option value="Sidi Bel Abbes">Sidi Be Abbes</option>
+    <option value="Ghardaia">Ghardaia</option>
+    <option value="Biskra">Biskra</option>
+  </select>
+   <div class="input-field">
+              <i class="fas fa-user"></i>
+              <input value="{{ old('membre_2') }}" name="membre_2" type="text" placeholder="Nom du membre 2" />
+            </div>
+               <div class="input-field">
+              <i class="fa fa-graduation-cap"></i>
+              <input value="{{ old('Niv_etude_2') }}" name="Niv_etude_2" type="text" placeholder="Niveau d'étude et spécialité" />
+            </div>
           <button class="btn transparent" id="sign-up-btn" onclick="return false">
             Suivant
           </button>
@@ -48,24 +64,30 @@
 
           <div class="input-field">
             <i class="fas fa-user"></i>
-            <input value="{{ old('member_2') }}" name="member_2" type="text" placeholder="Nom du membre 2" />
-          </div>
-          <div class="input-field">
-            <i class="fas fa-user"></i>
             <input value="{{ old('member_3') }}" name="member_3" type="text" placeholder="Nom du membre 3" />
           </div>
           <div class="input-field">
+              <i class="fa fa-graduation-cap"></i>
+              <input value="{{ old('Niv_etude_3') }}" name="Niv_etude_3" type="text" placeholder="Niveau d'étude et spécialité" />
+            </div>
+          <div class="input-field">
             <i class="fas fa-user"></i>
-            <input value="{{ old('member_4') }}" name="member_4" type="text" placeholder="Nom du membre 4 (facultatif)" />
+            <input value="{{ old('member_4') }}" name="member_4" type="text" placeholder="Nom du membre 4" />
           </div>
           <div class="input-field">
+              <i class="fa fa-graduation-cap"></i>
+              <input value="{{ old('Niv_etude_4') }}" name="Niv_etude_4" type="text" placeholder="Niveau d'étude et spécialité" />
+            </div>
+            
+          <div class="input-field">
             <i class="fas fa-sort-numeric-up-alt"></i>
-            <input value="{{ old('participations_number') }}" name="participations_number" type="number" placeholder="Nombre de participation aux competitions?" style="font-size: 13px" />
+            <input class="changesize" value="{{ old('participations_number') }}" name="participations_number" type="number" placeholder="Nombre de participation aux competitions?"/>
           </div>
           <div class="input-field">
             <i class="fas fa-text-width"></i>
             <input value="{{ old('skills') }}" name="skills" type="text" placeholder="Listez vos compétences" />
           </div>
+          <textarea value="{{ old('project') }}" name="project" type="text" placeholder="Citez les projts que vous avez réalisé dans le domaine électronique ou informaique"></textarea>
           <div class="try" style="position: relative">
            <button type="button" class="btn transparent" id="sign-in-btn">
               Précédent
@@ -85,7 +107,7 @@
           Bienvenue ! à la plus grande compétition nationale, algérienne de la robotique <a href="index.html"> "ALGERIAN ROBOT CUP" </a> &#9872; .
         </p>
         <a href="https://docs.google.com/document/d/1YoZp0osrLc4GfhEbHtpg6VwHr2OLmzDiGYN7FPzRO8M/edit?usp=sharing" target="_blank" rel="noopener noreferrer" >  
-          <button class="btn transparent" style="width: 150px; font-size: 10px;">
+          <button class="lire transparent" style="width: 150px; font-size: 10px;">
             Lire les instructions 
           </button> </a>
 
