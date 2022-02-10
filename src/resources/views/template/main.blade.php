@@ -124,26 +124,35 @@
       <div class="col-lg-8 offset-lg-2">
         <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
           <h4><em>OBJECTIF DE LA COMPETITION</em> </h4>
-          <img src="assets/images/heading-line-dec.png" alt="">
+          <img src="assets/images/Sans%20titre%20(2)%20(1).png" alt="">
           <p>Aujourd'hui, la robotique touche un large secteur d'activités économiques allant des industries automobile et électronique à l'alimentation, le recyclage, la logistique, etc.<br>
-            L’objectif principal de l’implication des robots est d’effectuer des tâches mieux que les humains, en particulier lorsqu'il s'agit des tâches répétitives et détaillées, dans ce cas-là, une implication de la technologie de l’intelligence artificielle est nécessaire.<br>
-            Le déploiement de l'IA dans les opérations de fabrication et de services garantira l'exactitude et la précision du processus et évitera les retards avec un changement plus rapide des opérations si nécessaire. L'utilisation de l'IA dans l'usine peut aider à augmenter la productivité et la qualité tout en garantissant un cadre de sécurité solide.
-          </p>
+L’objectif principal de l’implication des robots est d’effectuer des tâches mieux que les humains, en particulier lorsqu'il s'agit des tâches répétitives et détaillées, dans ce cas-là, une implication de la technologie de l’intelligence artificielle est nécessaire.<br>
+Le déploiement de l'IA dans les opérations de fabrication et de services garantira l'exactitude et la précision du processus et évitera les retards avec un changement plus rapide des opérations si nécessaire. L'utilisation de l'IA dans l'usine peut aider à augmenter la productivité et la qualité tout en garantissant un cadre de sécurité solide.
+</p>
         </div>
       </div>
     </div>
   </div>
 </div>
 
+<div class="registerphone">
+       <div class="the-clients" style="padding-top: 10px">
+      
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 offset-lg-2">
+          <div class="section-heading" style="margin-bottom: 0"> 
+              <div class="gradient2-button wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
+                <a href="sign.html" target="_blank" rel="noopener noreferrer"> <h5 style="text-decoration: underline">S'inscrire</h5></a>
+              </div>
+            </div>  
 
-
-
-
-
-
-
-
-
+              
+            </div>
+          </div>
+        </div>
+        </div>
+    </div>
 
 <div id="about" class="about-us section">
   <div class="container">
@@ -156,7 +165,7 @@
              <div class="titre">   
                <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s"> 
                 <h4><em>A PROPOS LA COMPETITION</em> </h4>
-                <img src="assets/images/heading-line-dec.png" alt="">
+                <img src="assets/images/Sans%20titre%20(2)%20(1).png" alt="">
               </div>
             </div>
           </div>
@@ -168,17 +177,16 @@
     <div class="col-lg-6 align-self-center">
       <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
         <h4><em>LES QUALIFICATIONS</em> </h4>
-        <img src="assets/images/heading-line-dec.png" alt="">
+        <img src="assets/images/Sans%20titre%20(2)%20(1).png" alt="">
         <p>La compétition est composée de deux phases principales : <br>
-          La première phase est les qualifications pour la finale, et elle aura lieu le 27 mars 2022 entre les 5 wilayas suivantes : <br>Alger, Biskra, Skikda, Sidi Bel Abbes, Ghardaia.<br>
-          Il s’agit d’une multitude de mini challenges sous chronomètres impliquant des compétences en robotique mais aussi des bases en Intelligence Artificielle que les participants devront avoir pour pouvoir procéder une sélection effective des finalistes.<br>
-        </p>
+La première phase est les qualifications pour la finale, et elle aura lieu le 27 mars 2022 entre les 5 wilayas suivantes : <br>Alger, Biskra, Skikda, Sidi Bel Abbes, Ghardaia.<br>
+                Il s’agit d’une multitude de mini challenges sous chronomètres impliquant des compétences en robotique mais aussi des bases en Intelligence Artificielle que les participants devront avoir pour pouvoir procéder une sélection effective des finalistes.<br>
+</p>
       </div>
-
     </div>
     <div class="col-lg-6">
       <div class="right-image wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
-        <img src="assets/bleu.svg" alt="">
+        <img src="img/Alger%20(2).png" alt="">
       </div>
     </div>
   </div>
@@ -199,9 +207,9 @@
       <div class="col-lg-6 align-self-center">
         <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
           <h4><em>LA FINALE</em> </h4>
-          <img src="assets/images/heading-line-dec.png" alt="">
+          <img src="assets/images/Sans%20titre%20(2)%20(1).png" alt="">
           <p>La finale déroulera à la wilaya d'Alger, le 14 Mai 2022 où, les qualifiés du premier tour vont se battre pour remporter le 1er titre de « Algerian Robot Cup 2022 » dont le thème est le développement d'une usine industrielle et cela, en intégrant de nouvelles technologies telles que : <br>l'intelligence artificielle, les protocoles de communication sans fil, des nouveaux mécanismes. ..etc</p>
-        </div>
+          </div>
       </div>
 
     </div>
@@ -212,15 +220,12 @@
 <div class="test2"> <div  class="about-us section">
   <div class="container">
     <div class="row">
-
-
-
       <div class="col-lg-6 align-self-center">
         <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
           <h4><em>LA FINALE</em> </h4>
-          <img src="assets/images/heading-line-dec.png" alt="">
+          <img src="assets/images/Sans%20titre%20(2)%20(1).png" alt="">
           <p>La finale déroulera à la wilaya d'Alger, le 14 Mai 2022 où, les qualifiés du premier tour vont se battre pour remporter le 1er titre de « Algerian Robot Cup 2022 » dont le thème est le développement d'une usine industrielle et cela, en intégrant de nouvelles technologies telles que : <br>l'intelligence artificielle, les protocoles de communication sans fil, des nouveaux mécanismes. ..etc</p>
-        </div>
+          </div>
       </div>
 
       <div class="col-lg-6">
@@ -267,15 +272,15 @@
       <div class="col-lg-8 offset-lg-2">
         <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s"> 
           <h4><em>EVENT PARTNER</em></h4>
-          <img src="assets/images/heading-line-dec.png" alt="">
+          <img src="assets/images/Sans%20titre%20(2)%20(1).png" alt="">
           <section id="slideshow">
            <div class="entire-content">
             <div class="content-carrousel">
-             <figure class="shadow"><img src="assets/images/cast.png"></figure>
-             <figure class="shadow"><img src="assets/images/biskraread%20logo.png"></figure>
-             <figure class="shadow"><img src="assets/images/LOGO%20BLANC.png"></figure>
-             <figure class="shadow"><img src="assets/images/logo%20de%20petroleum%20club%20skikda%20.png"></figure>
-
+          <figure class="shadow"><img src="assets/images/cast.png"></figure>
+          <figure class="shadow"><img src="assets/images/LOGO%20BLANC.png"></figure><figure class="shadow"><img src="assets/images/biskra.png"></figure>
+		  <figure class="shadow"><img src="assets/images/logo%20de%20petroleum%20club%20skikda%20.png"></figure>
+          <figure class="shadow"><img src="assets/images/DETS_white.svg"></figure>
+          <figure class="shadow"><img src="assets/images/Sans%20titre%20(9).png"></figure>
            </div>
          </div>
        </section>
@@ -291,15 +296,15 @@
           <section id="slideshow1" style="margin-bottom: 70px;">
            <div class="entire-content1">
             <div class="content-carrousel1">
-             <figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
-             <figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
-             <figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
-             <figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
-             <figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
-             <figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
-             <figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
-             <figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
-             <figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
+            <figure class="shadow1"><img src="assets/images/Sans%20titre%20(13).png"></figure>
+					<figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
+					<figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
+					<figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
+					<figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
+					<figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
+					<figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
+					<figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
+					<figure class="shadow1"><img src="assets/images/ARC%20logo_1background.png"></figure>
            </div>
          </div>
        </section>
@@ -341,7 +346,7 @@
     <div class="row">
       <div class="col-lg-8 offset-lg-2">
         <div class="section-heading wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
-          <img src="assets/images/heading-line-dec.png" alt="">  <h4 style="color: white;">WITH ARC <em>FEEL THE POWER OF ROBOTS !</em></h4>
+          <img src="assets/images/Sans%20titre%20(2)%20(1).png" alt="">  <h4 style="color: white;">WITH ARC, <em>FEEL THE POWER OF ROBOTS !</em></h4>
 
 
         </div>
@@ -360,7 +365,7 @@
       <div class="col-lg-8 offset-lg-2">
         <div class="section-heading wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
 
-          <img src="assets/images/heading-line-dec.png" alt="">
+          <img src="assets/images/Sans%20titre%20(2)%20(1).png" alt="">
 
         </div>
       </div>
